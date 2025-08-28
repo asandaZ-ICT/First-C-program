@@ -6,7 +6,8 @@ A simple C# console application that asks for a user's name and prints a greetin
 2.build and run program.
 
 ## Code example
-c#
+```c#
 Console.WriteLine("What is my name: ");
 string name = Console.ReadLine();
 Console.WriteLine("Your name is " + name);
+```
