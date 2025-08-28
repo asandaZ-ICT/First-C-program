@@ -1,9 +1,8 @@
-# First-C-program
+# First-Csharp-program
 A simple C# console application that asks for a user's name and prints a greeting.
 
 ## How to Run
-1.Open the project in visual studio.
-2.build and run program.
+Open the project in visual studio then build and run program.
 
 ## Code example
 ```c#
